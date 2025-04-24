@@ -15,7 +15,7 @@ div{
     background: #f2f3f2;
     text-align: center;
     padding:50px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 div:hover{
     box-shadow: orange 0px 10px 30px;
